@@ -13,11 +13,11 @@
       <img width="30" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI">
     </a>
     <a href = "https://www.linkedin.com/in/joaocmoraes99/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg">
     </a>
     </a>
     <a href = "https://www.instagram.com/joaocmoraes_/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="https://t.ctcdn.com.br/eXQweorgzzB_ARsw7I9Bvp4O_Qg=/400x400/smart/filters:format(webp)/i489927.jpeg">
     </a>
 </div>
 
