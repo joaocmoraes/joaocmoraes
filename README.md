@@ -10,7 +10,7 @@
 
 <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: joaocmoraes20@gmail.com">
-      <img width="30" src="file:///C:/Users/bigga/Downloads/icons8-gmail-48.png">
+      <img width="30" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI">
     </a>
     <a href = "https://www.linkedin.com/in/joaocmoraes99/">
       <img width="25" src="linkedin.svg">
