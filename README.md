@@ -7,7 +7,7 @@
 </div>
 
 
-
+<div align='center' >
 <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: joaocmoraes20@gmail.com">
       <img width="70" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI">
